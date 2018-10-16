@@ -1,0 +1,11 @@
+
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_01.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_02.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_03.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_04.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_05.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_06.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_07.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_08.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_09.lua")
+includeFile("custom_loot/items/paintings/holiday/anniversary/sr_one_year_painting_10.lua")
